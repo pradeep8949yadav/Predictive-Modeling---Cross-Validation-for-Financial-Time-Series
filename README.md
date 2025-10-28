@@ -97,10 +97,4 @@ The objective is to develop **robust predictive models** capable of forecasting 
 - Integrate **GPU acceleration** via RAPIDS.ai for high-frequency datasets.  
 
 ---
-
-### Author
-**Pranav**  
-Final Year at VNIT  
-Quantitative Finance & Machine Learning Enthusiast  
-
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+ 
